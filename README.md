@@ -14,7 +14,8 @@
 ## 官方网站 / GitHub Pages
 
 **网站首页：** https://jim-adak.github.io/Echoes-of-an-Era/  
-**首期专题：** https://jim-adak.github.io/Echoes-of-an-Era/articles/music/1969-space-oddity/
+**首期杂志专题：** https://jim-adak.github.io/Echoes-of-an-Era/articles/music/1969-space-oddity/  
+**学术研究版：** https://jim-adak.github.io/Echoes-of-an-Era/articles/music/1969-space-oddity/research.html
 
 > 网站使用仓库根目录的 `index.html` 作为首页。若尚未上线，请在 Settings → Pages 中选择 Deploy from a branch、main、/(root)，然后保存。
 
