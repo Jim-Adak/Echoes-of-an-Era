@@ -11,9 +11,16 @@
 
 文章以中文为主，结合历史背景、文本分析和相关学术理论。**仓库内容为个人研究与讨论稿，不等同于经过同行评审的学术论文。**
 
+## 官方网站 / GitHub Pages
+
+**网站首页：** https://jim-adak.github.io/Echoes-of-an-Era/  
+**首期专题：** https://jim-adak.github.io/Echoes-of-an-Era/articles/music/1969-space-oddity/
+
+> 网站使用仓库根目录的 `index.html` 作为首页。若尚未上线，请在 Settings → Pages 中选择 Deploy from a branch、main、/(root)，然后保存。
+
 ## 杂志阅读版
 
-[**打开 Space Oddity 图文特刊 →**](https://jim-adak.github.io/Echoes-of-an-Era/)（需启用 GitHub Pages）
+[**打开 Space Oddity 图文特刊 →**](https://jim-adak.github.io/Echoes-of-an-Era/articles/music/1969-space-oddity/)（需启用 GitHub Pages）
 
 杂志版采用深色太空封面、历史摄影、唱片封面、原创图表及长篇文化特写；Markdown 版保留论文式结构。
 
