@@ -45,7 +45,7 @@ Boym区分不同形态的怀旧，其研究提醒我们：怀旧既可能试图�
 
 ## 四、1960年代：流行音乐、政治和文化断裂
 
-从民权运动到越南战争，从英伦入侵到民谣与摇滚的形式实验，美国公共文化进入高度争论和创新的阶段。1963年华盛顿大游行、1964年《民权法案》以及随后持续扩大的政治参与，说明“旧秩序瓦解”并非只有负面一面；对于受到歧视的人群，变革往往意味着权利的扩展[6]。
+从民权运动到越南战争，从英伦入侵到民谣与摇滚的形式实验，美国公共文化进入高度争论和创新的阶段。1963年华盛顿大游行、1964年《民权法案》以及随后持续扩大的政治参与[11]，说明“旧秩序瓦解”并非只有负面一面；对于受到歧视的人群，变革往往意味着权利的扩展[6]。
 
 1968年马丁·路德·金与罗伯特·肯尼迪遇刺，同年的战争与抗议促使人们质疑政治信任。1969年伍德斯托克音乐节成为反文化理想的著名象征，同年12月的阿尔塔蒙特免费音乐会则因暴力及组织失序而被后世频繁拿来对比[6]。两场活动有标志性，却不能简化为整个年代从乌托邦直线坠落的证明。
 
@@ -112,6 +112,8 @@ McLean在2022年采访中将政治与音乐的变动视为相互影响的过程[
 [9] Assmann J. Collective Memory and Cultural Identity. New German Critique, 1995(65): 125–133. https://doi.org/10.2307/488538
 
 [10] Anderson B. Imagined Communities: Reflections on the Origin and Spread of Nationalism. Verso, 2006 revised edition. https://www.versobooks.com/products/1126-imagined-communities
+
+[11] The American Yawp. Chapter 27: The Sixties. https://www.americanyawp.com/text/27-the-sixties/
 
 ## 历史照片与版权说明
 
